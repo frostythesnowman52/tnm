@@ -1,6 +1,8 @@
-# Terminal Network Manager
+# Terminal Network Manager ( WIP )
 
 A powerful terminal-based network management tool designed to monitor and manage network connections, interfaces, and configurations directly from the command line. This tool provides various functionalities such as network scanning, traffic monitoring, and device health checks.
+
+I am aware that they are bugs, and i'm working on them.
 
 ## Features
 
